@@ -1,0 +1,40 @@
+{
+"posts": [
+  {
+    "userId": 1,
+    "id": 1,
+    "title": "Le jour de mes 25 ans",
+    "body": "On s'est super bien amusé avec tous mes amis"
+  },
+  {
+    "userId": 1,
+    "id": 2,
+    "title": "Journée à la montagne",
+    "body": "Mal de pied après 15 kilomètres dans les montagnes"
+  },
+  {
+    "userId": 1,
+    "id": 3,
+    "title": "Journée avec ma best friend",
+    "body": "Petit repas à el moucho et sortie au parc avec ma best !"
+  },
+  {
+    "userId": 1,
+    "id": 4,
+    "title": "Mes copains d'amour",
+    "body": "Une journée au top entouré de tous mes copains !"
+  },
+  {
+    "userId": 1,
+    "id": 5,
+    "title": "Resto en famille",
+    "body": "Burger et frites , un pur délice !"
+  },
+  {
+    "userId": 1,
+    "id": 6,
+    "title": "Des gauffres au petit déj !",
+    "body": "J'adore les gauffres miam ! Au chocolat, à la chantilly..."
+  }
+]
+}
